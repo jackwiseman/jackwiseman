@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+	<h1>Jack Wiseman </h1>
+</div>
+
+[![Jack's Github Stats](https://github-readme-stats.vercel.app/api?username=jackwiseman)](https://github.com/jackwiseman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwiseman&layout=compact)](https://github.com/yushi1007)
 
 <!--
 **jackwiseman/jackwiseman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
