@@ -7,4 +7,4 @@
  - GoTorrent, a commandline torrenting client written in Go, specificially for downloading via magnet links
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwiseman&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwiseman&layout=compact)](https://github.com/jackwiseman)
